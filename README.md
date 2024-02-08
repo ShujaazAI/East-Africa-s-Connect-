@@ -1,7 +1,7 @@
 # East-Africa-s-Connect-
 Offline Disruption Tech Roadmap 
 
-It's not entirely accurate to say that the radio industry can disrupt the internet industry. Each serves different needs and operates within distinct landscapes. However, the radio industry can leverage and adapt to disruptive technologies like Pacoo to significantly enhance its offering and compete more effectively in the evolving media landscape. Here are some possibilities:
+It's not entirely accurate to say that the radio industry can disrupt the internet industry. Each serves different needs and operates within distinct landscapes. However, the radio industry can leverage and adapt to disruptive technologies like Paycoo to significantly enhance its offering and compete more effectively in the evolving media landscape. Here are some possibilities:
 
 In the next 5 years:
 
