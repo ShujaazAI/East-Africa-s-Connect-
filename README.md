@@ -5,7 +5,7 @@ It's not entirely accurate to say that the radio industry can disrupt the intern
 
 In the next 5 years:
 
-Personalized radio experiences: Implement technologies like Pacoo to personalize content based on individual listener preferences. This could involve AI-powered music selection, curated news feeds, and targeted local information.
+Personalized radio experiences: Implement technologies like Paycoo to personalize content based on individual listener preferences. This could involve AI-powered music selection, curated news feeds, and targeted local information.
 Interactive radio: Use voice assistants and smart speakers to allow listeners to interact with radio shows and presenters directly. Imagine asking a question about a topic discussed on a show or voting on a poll in real-time.
 Data-driven insights: Utilize listener data collected through Pacoo and other platforms to understand audience demographics, preferences, and engagement patterns. This data can be used for targeted advertising, content creation, and market research.
 Enhanced local offerings: Leverage Pacoo's hyperlocal focus to provide relevant and timely information specific to listener location. This could include traffic updates, weather alerts, and community events.
